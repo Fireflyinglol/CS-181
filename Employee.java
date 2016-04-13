@@ -1,5 +1,6 @@
 /**
- * This is the class of the employee object type
+ * This is the class of the employee object type.
+ * Test for Github commit
  * @author Minghao Shan
  * @version 03/20/2016
  **/
